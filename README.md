@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/douglas-s/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="mailto:ddouglasantana007@gmail.com">
+<a target="_blank" href="mailto:douglasantana007@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
