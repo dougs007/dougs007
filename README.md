@@ -12,7 +12,7 @@
 
 Hi, I'm Douglas Santana. 
 
-I'm a FullStack Developer from Brazil 💚, **22 years old** and about **3 years coding** 🧐. 
+I'm a FullStack Developer from Brazil 💚, **23 years old** and about **4 years coding** 🧐. 
 
 * 🏠 Living in Brasília-DF
 
