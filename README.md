@@ -12,17 +12,17 @@
 
 Hi, I'm Douglas Santana. 
 
-I'm a FullStack Developer from Brazil 💚, **23 years old** and about **4 years coding** 🧐. 
+I'm a FullStack Developer from Brazil 💚, **25 years old** and about **7 years coding** 🧐. 
 
-* 🏠 Living in Brasília-DF
+* 🏠 Living in Porto - 🇵🇹
 
-* 💻 Analisty Developer at Stefanini
+* 💻 Software Engineer at Critical Techworks
 
 * 📚 Graduate in Analysis and Systems Development at IESB
 
 * 📚 Graduate studies in Software Engineer at PUC-MG
 
-* 🎯 Focused in Java, PHP in backend and little about Node.js. In front-end: Vuejs, and a little of React and Angular. 
+* 🎯 Focused in Java in backend and Angular, Vuejs, and a little of React in front-end. 
 
 * 👨🏻‍💻 https://devdouglas.com.br/
 
@@ -32,14 +32,10 @@ I'm a FullStack Developer from Brazil 💚, **23 years old** and about **4 years
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
 
